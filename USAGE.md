@@ -1,2 +1,1 @@
-crispy-computing-machine: 1.0.3
-,turbo-octo-couscous: 1.0.3
+crispy-computing-machine: 1.0.3  ,turbo-octo-couscous: 1.0.3  
