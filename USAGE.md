@@ -1,2 +1,2 @@
-crispy-computing-machine: 1.0.3  
-turbo-octo-couscous: 1.0.3  
+<a href="https://github.com/kaer-morhen/crispy-computing-machine" target="_blank">crispy-computing-machine</a>: 1.0.3
+<a href="https://github.com/kaer-morhen/turbo-octo-couscous" target="_blank">turbo-octo-couscous</a>: 1.0.3
